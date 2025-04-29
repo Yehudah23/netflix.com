@@ -1,0 +1,136 @@
+.body_1{
+  background-image: url(./first_image.jpg);
+    background-size: cover; 
+     background-blend-mode: overlay; 
+    background-color:rgba(0, 0, 0, 0.5) ; 
+    display: block;
+}
+  .body {
+    background-image: url(./first_image.jpg);
+    background-size: cover; 
+     background-blend-mode: overlay; 
+    background-color: rgba(27, 19, 25, 0.925); 
+    display: block;
+   }
+
+  #sign{
+    background-color: rgba(0, 0, 0, 0.5);
+    width: 50%;
+    margin-left: 400px;
+    padding: 90px 60px;    
+  }
+
+
+    #us{
+    margin-left: 50px;
+    margin-bottom: 50px;
+  
+  }  
+
+  #contact{
+    width: 100%;
+    height: 300px;
+    margin-top: -50px;
+    background-color: rgba(0, 0, 0, 0.9);
+    padding-top: 150px;
+    padding-left: 100px;
+  }
+#faq{
+  margin: 90px;
+}
+  .faq{
+    margin-right: 50px;
+  }
+  #info{
+    margin-left: -50px;
+  }
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.back{
+  background-image: url(./NG-en-20250317-TRIFECTA-perspective_64fb119d-c605-4013-9dcd-87cfd6ecddfe_large.jpg);
+  background-size: contain;
+  background-repeat: no-repeat;
+   background-blend-mode: overlay; 
+  background-color: rgba(0, 0, 0, 0.4);
+  background-position: center;
+
+  
+}
+.daddy{
+  background-image: url(./ada\ omo\ daddy\ gangan.jpg);
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-blend-mode: overlay; 
+  background-color: rgba(0, 0, 0, 0.4);
+  background-position: center;
+  
+  }
+
+  .farm{
+    background-image: url(./baby\ farm\ gangan.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-blend-mode: overlay; 
+    background-color: rgba(0, 0, 0, 0.4);
+  background-position: center;
+ 
+
+  }
+  .button{
+    border-radius:50px;
+    background-color: red;
+    width: 500px;
+    margin-bottom: 50px;
+    padding: 20px;
+  }
+  .email{
+    border-radius:50px ;
+    background-color: darkgrey;
+    width:500px;
+    margin-bottom: 2px;
+    padding: 20px;
+  }
+  .sec-2{
+ background-color: rgba(27, 19, 25, 0.925);
+    
+  }
+   .images{
+    height: 300px;
+    border:  #000;
+    border-radius: 20px;
+    font-size: 50px ;
+  
+  }
+  .plans{
+    border: rgb(45,43,40);
+    border-radius: 20px;
+  }
+  .export{
+    background-color:rgba(27, 19, 25, 0.925);
+  }
+  .just{
+    margin-left: 150px;
+  }
+  .what{
+    padding: 50px;
+    border: solid gray;
+    width: 1000px;
+    margin-left: 200px;
+    height: 40px;
+    margin-bottom: 5px;
+    border-radius: 20px;
+
+  }
+  .movie-img {
+    height: 220px;
+    object-fit: cover;
+    border-radius: 12px;
+    transition: transform 0.3s ease;
+  }
+  .movie-img:hover {
+    transform: scale(1.05);
+  }
+ 
